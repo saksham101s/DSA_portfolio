@@ -30,7 +30,7 @@ Here are some of the commands you can use to navigate the portfolio:
 
 ## Technical Details
 
-* The portfolio is built using React and Tailwind.css . 🚀
+* The portfolio is built using React, typescript and Tailwind.css . 🚀
 * The command-line interface is implemented using JavaScript to handle user input and navigate to different sections.
 * The website may include animations, interactive elements, and a responsive design. ✨
 
